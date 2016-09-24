@@ -20,6 +20,20 @@
                ReferencedContainer = "container:Icecream.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5BA417911D9066DA005C66A9"
+               BuildableName = "IcecreamTests.xctest"
+               BlueprintName = "IcecreamTests"
+               ReferencedContainer = "container:Icecream.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
